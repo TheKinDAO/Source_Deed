@@ -1,0 +1,5 @@
+Each Source_Deed must reference a Source_Title recording the previous owner and a Source_Title recording the next owner.
+
+So each Source_Deed always references 2 Source_Titles, and each Source_Title references at least one Source_Deed.
+
+c276007ed4c0ca254ffe0efca66cf26e  Ricardian.txt
